@@ -3,6 +3,7 @@ import { BiDonateBlood, BiUserCircle } from "react-icons/bi";
 import { FaHandHoldingHeart } from 'react-icons/fa';
 import { useNavigate, useLocation, Link } from "react-router-dom";
 import { useSelector } from "react-redux";
+import Analytics from './../../../pages/Dashboard/Analytics';
 const Header = () => {
   const { user } = useSelector((state) => state.auth);
   const navigate = useNavigate();
@@ -37,8 +38,9 @@ const Header = () => {
             location.pathname === "/hospital" ? (
               <li className="nav-item mx-3">
                 <Link to="/analytics" className="nav-link">
-                  Analytics
+                  {/* Analytics */}
                 </Link>
+                <h5 className="nav-item mx-3">Analytics</h5>
               </li>
             ) : (
               <li className="nav-item mx-3">
