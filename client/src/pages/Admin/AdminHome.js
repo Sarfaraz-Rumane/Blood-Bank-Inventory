@@ -14,32 +14,15 @@ const AdminHome = () => {
           <h3>Manage Blood Bank App </h3>
           <hr />
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad
-            explicabo animi blanditiis incidunt dicta quia, quibusdam facere
-            corporis! Dolores, reprehenderit cum sed repellat laudantium
-            architecto natus est nostrum accusamus, odio aspernatur minima
-            fugiat quam molestiae nisi. Temporibus impedit dolorem quia.
-            Distinctio modi non excepturi illo odio voluptatum quae nostrum a
-            temporibus sequi! Explicabo, quasi consequatur ad qui quos labore
-            distinctio voluptates alias nostrum ab dicta aspernatur molestias
-            adipisci quibusdam error ipsa. Totam, tenetur dolores eaque tempora
-            officiis deserunt assumenda? Rerum nemo est nihil laudantium
-            necessitatibus. Possimus, voluptatem voluptates blanditiis quas
-            aspernatur, quam, quaerat minus maiores ipsam sint perferendis
-            dolor. Dignissimos voluptatem doloribus sint in quis omnis, atque
-            neque praesentium voluptatum suscipit. Quas esse, accusantium maxime
-            obcaecati iure officiis aperiam minus alias quod cum quos qui
-            voluptatibus, numquam, ad id dolore odit! Minima laudantium sunt,
-            explicabo nesciunt quos voluptatibus qui libero eligendi praesentium
-            debitis obcaecati similique assumenda nobis labore totam dolore
-            perferendis adipisci fugiat quibusdam tempore doloremque voluptatum
-            accusantium. Accusamus, incidunt sequi. Esse sunt officia fuga,
-            officiis saepe tempora repellat suscipit aliquid cupiditate
-            perferendis, asperiores architecto molestiae rem iste eaque
-            molestias reiciendis. Laborum modi asperiores, reprehenderit
-            assumenda numquam, vitae exercitationem illum nesciunt, dolorum
-            deleniti accusamus consequatur id. Necessitatibus dolore ad fugit?
+          Dr. Sarfaraz, the central figure in the Blood Bank Inventory Project, is a highly regarded medical professional with a rich background in the field of healthcare. With a career spanning over two decades, Dr. Sarfaraz has made significant contributions to the medical community, particularly in the area of blood banking and transfusion medicine. His expertise, combined with a deep sense of compassion, has earned him a reputation as a dedicated healthcare provider and a visionary leader in the field.
           </p>
+          <p>
+          One of Dr. Sarfaraz's greatest achievements has been his pioneering work in enhancing the efficiency of blood banks and ensuring the availability of safe and high-quality blood products. He has been instrumental in developing protocols for blood collection, testing, storage, and distribution, all aimed at minimizing risks and maximizing the benefits of transfusion therapy. His efforts have not only saved countless lives but have also set new standards for blood banking across the healthcare industry.
+</p>
+<p>
+The Blood Bank Inventory Project, designed and led by Dr. Sarfaraz, is a testament to his commitment to improving healthcare systems. This project, developed using the MERN stack (MongoDB, Express.js, React, and Node.js), addresses a critical need in the healthcare industry by streamlining the management of blood bank resources. Dr. Sarfaraz's vision for this project is to ensure the efficient allocation and utilization of blood products, ultimately benefiting patients in need and reducing waste.
+</p>
+          
         </div>
       </div>
     </Layout>
